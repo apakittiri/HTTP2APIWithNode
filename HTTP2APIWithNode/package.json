@@ -6,5 +6,9 @@
   "author": {
     "name": "apakittiri",
     "email": ""
+  },
+  "dependencies": {
+    "fs": "0.0.2",
+    "http2": "^3.3.4"
   }
 }
