@@ -1,0 +1,10 @@
+{
+  "name": "HTTP2APIWithNode",
+  "version": "0.0.0",
+  "description": "HTTP2APIWithNode",
+  "main": "app.js",
+  "author": {
+    "name": "apakittiri",
+    "email": ""
+  }
+}
